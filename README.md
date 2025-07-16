@@ -1,5 +1,5 @@
 <div id = "42" align = "center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/nmoreira?1337Badge=off&UM6P=off" alt="nmoreira's 42 stats" /></a>
+ <a href=""><img src="https://badge.mediaplus.ma/darkblue/nmoreira?1337Badge=off&UM6P=off" alt="nmoreira's 42 stats" /></a>
 </div>
 <!--
 **nunotaboada/nunotaboada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
