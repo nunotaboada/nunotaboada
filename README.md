@@ -2,12 +2,17 @@
  <a href=""><img src="https://badge.mediaplus.ma/darkblue/nmoreira?1337Badge=off&UM6P=off" alt="nmoreira's 42 stats" /></a>
 </div>
 
-
-##Nuno Taboada 
+<br></br>
+## Hello, my names is Nuno Taboada
 
 <div id = "badge42">
  <img alt="Static Badge" src="https://img.shields.io/badge/Porto_%7C_Graduate-_?style=for-the-badge&logo=42&logoColor=gray&labelColor=black&color=gray">
+	<a href="https://seame.space/">
+  	<img alt="Static Badge" src="https://img.shields.io/badge/SEAME-_?style=for-the-badge&color=%2300FFA5">
+	</a>
 </div>
+
+
 <!--
 **nunotaboada/nunotaboada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
 Here are some ideas to get you started:
