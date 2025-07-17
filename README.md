@@ -31,7 +31,7 @@
 ## Languages and Tools 🛠️
 
 <p align="left">
-  <a href="">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,git,github,python,django,nginx,docker,linux,nodejs,javascript,html,css,bootstrap,mongodb,postgres,qt,kotlin"/>
   </a>
 </p>
