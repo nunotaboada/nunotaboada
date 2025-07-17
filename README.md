@@ -10,8 +10,6 @@
 <br></br>
 # Hello, my names is Nuno Taboada
 
-<br></br>
-
 <div id = "badge42">
 	<a href="https://www.42porto.com/pt/">
  		<img alt="Static Badge" src="https://img.shields.io/badge/Porto_%7C_Graduate-_?style=for-the-badge&logo=42&logoColor=gray&labelColor=black&color=gray">
@@ -21,6 +19,7 @@
 	</a>
 </div>
 
+<br></br>
 
 * 🌍  I'm based in `Porto, Portugal` 
 * ✉️  You can contact me at [nunosvaladao@hotmail.com](mailto:nunosvaladao@hotmail.com)
