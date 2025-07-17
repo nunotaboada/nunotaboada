@@ -52,7 +52,7 @@
 - 🍴 [PHILOSOPHERS]()
 - 🖥️ [MINISHELL]()
 - 🌐 [NETPRACTICE]()
-- 🧠 [MINIRT]()
+- 💥 [CUB3D]()
 - 🧰 [CPP]()
 - 🏗️ [INCEPTION]()
 - 📡 [FT_IRC]()
