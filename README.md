@@ -22,7 +22,7 @@
 <br></br>
 
 * 🌍  I'm based in `Porto, Portugal` 
-* ✉️  You can contact me at [nunosvaladao@hotmail.com](mailto:nunosvaladao@hotmail.com)
+* ✉️  You can contact me at [nunotaboada@gmail.com](mailto:nunotaboada@gmail.com)
 * 🧠  I'm learning `C`, `C++`, `Python` and `Backend`
 * ⚡   I'm very interested in the `Frontend development`, `Mobility`, and `AI/Machine Learning`!
 
