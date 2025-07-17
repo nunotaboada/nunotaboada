@@ -42,7 +42,7 @@
 
 ### Common Core Projects
 
-- 🧱 [LIBFT]()
+- 🧱 [LIBFT](https://github.com/nunotaboada/libft)
 - 🛡️ [BORN2BEROOT]()
 - 🧵 [GET-NEXT-LINE]()
 - 🧾 [FT_PRINTF]()
