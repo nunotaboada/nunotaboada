@@ -15,7 +15,7 @@
  		<img alt="Static Badge" src="https://img.shields.io/badge/Porto_%7C_Graduate-_?style=for-the-badge&logo=42&logoColor=gray&labelColor=black&color=gray">
 	</a>
 	<a href="https://seame.space/">
-  		<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%9A%97_-_SEAME_-_?style=for-the-badge">
+  		<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%9A%97_-_SEAME_-_?style=for-the-badge&color=%2300FFA5">
 	</a>
 </div>
 
