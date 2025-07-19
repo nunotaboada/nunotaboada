@@ -45,7 +45,7 @@
 - 🛡️ [BORN2BEROOT](https://github.com/nunotaboada/Born2beRoot)
 - 🧵 [GET-NEXT-LINE](https://github.com/nunotaboada/getnextline)
 - 🧾 [FT_PRINTF](https://github.com/nunotaboada/printf)
-- 🎯 [PUSH-SWAP]()
+- 🎯 [PUSH-SWAP](https://github.com/nunotaboada/Push_Swap)
 - 📨 [MINI-TALK]()
 - 🎮 [SO-LONG]()
 - 🍴 [PHILOSOPHERS]()
