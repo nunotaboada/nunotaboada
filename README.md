@@ -44,7 +44,7 @@
 
 - 🧱 [LIBFT](https://github.com/nunotaboada/libft)
 - 🛡️ [BORN2BEROOT](https://github.com/nunotaboada/Born2beRoot)
-- 🧵 [GET-NEXT-LINE]()
+- 🧵 [GET-NEXT-LINE](https://github.com/nunotaboada/getnextline)
 - 🧾 [FT_PRINTF]()
 - 🎯 [PUSH-SWAP]()
 - 📨 [MINI-TALK]()
