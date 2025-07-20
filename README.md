@@ -51,7 +51,7 @@
 - 🍴 [PHILOSOPHERS]()
 - 🖥️ [MINISHELL]()
 - 🌐 [NETPRACTICE]()
-- 💥 [CUB3D]()
+- 💥 [CUB3D](https://github.com/nunotaboada/Cub3D)
 - 🧰 [CPP]()
 - 🏗️ [INCEPTION]()
 - 📡 [FT_IRC]()
