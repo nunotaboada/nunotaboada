@@ -47,7 +47,7 @@
 - 🧾 [FT_PRINTF](https://github.com/nunotaboada/printf)
 - 🎯 [PUSH-SWAP](https://github.com/nunotaboada/Push_Swap)
 - 📨 [MINI-TALK]()
-- 🎮 [SO-LONG]()
+- 🎮 [SO-LONG](https://github.com/nunotaboada/solong)
 - 🍴 [PHILOSOPHERS]()
 - 🖥️ [MINISHELL]()
 - 🌐 [NETPRACTICE]()
