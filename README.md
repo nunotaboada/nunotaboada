@@ -54,8 +54,8 @@
 - 💥 [CUB3D](https://github.com/nunotaboada/Cub3D)
 - 🧰 [CPP]()
 - 🏗️ [INCEPTION]()
-- 📡 [FT_IRC]()
-- 🕹️ [FT_TRANSCENDENCE]()
+- 📡 [WEBSERVER]()
+- 🕹️ [FT_TRANSCENDENCE](https://github.com/nunotaboada/Transcendence)
 
 
 <!--
