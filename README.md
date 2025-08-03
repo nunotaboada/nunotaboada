@@ -46,15 +46,15 @@
 - 🧵 [GET-NEXT-LINE](https://github.com/nunotaboada/getnextline)
 - 🧾 [FT_PRINTF](https://github.com/nunotaboada/printf)
 - 🎯 [PUSH-SWAP](https://github.com/nunotaboada/Push_Swap)
-- 📨 [MINI-TALK]()
+- 📨 MINI-TALK
 - 🎮 [SO-LONG](https://github.com/nunotaboada/solong)
-- 🍴 [PHILOSOPHERS]()
-- 🖥️ [MINISHELL]()
-- 🌐 [NETPRACTICE]()
+- 🍴 PHILOSOPHERS
+- 🖥️ MINISHELL
+- 🌐 NETPRACTICE
 - 💥 [CUB3D](https://github.com/nunotaboada/Cub3D)
-- 🧰 [CPP]()
-- 🏗️ [INCEPTION]()
-- 📡 [WEBSERVER]()
+- 🧰 CPP
+- 🏗️ INCEPTION
+- 📡 WEBSERVER
 - 🕹️ [FT_TRANSCENDENCE](https://github.com/nunotaboada/Transcendence)
 
 
