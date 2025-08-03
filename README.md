@@ -57,6 +57,11 @@
 - 📡 WEBSERVER
 - 🕹️ [FT_TRANSCENDENCE](https://github.com/nunotaboada/Transcendence)
 
+## Projects
+
+- 📟 [DigitalCluster_QT](https://github.com/nunotaboada/DigitalCluster_QT)
+- 🧠 [MLLaneDetection](https://github.com/nunotaboada/MLLaneDetection)
+
 
 <!--
 **nunotaboada/nunotaboada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
