@@ -49,7 +49,7 @@
 - 📨 MINI-TALK
 - 🎮 [SO-LONG](https://github.com/nunotaboada/solong)
 - 🍴 PHILOSOPHERS
-- 🖥️ MINISHELL
+- 🖥️ [MINISHELL](https://github.com/nunotaboada/Minishell)
 - 🌐 NETPRACTICE
 - 💥 [CUB3D](https://github.com/nunotaboada/Cub3D)
 - 🧰 CPP
