@@ -61,6 +61,7 @@
 
 - 📟 [DigitalCluster_QT](https://github.com/nunotaboada/DigitalCluster_QT)
 - 🧠 [MLLaneDetection](https://github.com/nunotaboada/MLLaneDetection)
+- 🧠 [MLDrivableAreaDetection](https://github.com/nunotaboada/MLDrivableAreaDetection)
 
 
 <!--
